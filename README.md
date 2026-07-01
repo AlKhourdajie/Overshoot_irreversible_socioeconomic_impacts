@@ -28,8 +28,3 @@ All curves are illustrative of qualitative behaviour. They are not empirical and
 If you find this work useful, please cite the paper. Please do so also if you use the code or a variation of it.
 
 > Al Khourdajie, A., Andrijevic, M., Byers, E., Pathak, M., Pirani, A., Schleussner, C.-F., & Stuart-Smith, R. (2026). Overshoot pathways of 1.5°C: reversible biophysical change, irreversible socioeconomic impacts. *Environmental Research Letters* (under review); preprint on EarthArXiv.
-
-## License
-
-*To complete: add a licence so others know how they may use the code (for example MIT, BSD-3-Clause, or Apache-2.0), and include the corresponding LICENSE file.*
-
