@@ -23,45 +23,13 @@ The repository reproduces the two figures in the main text.
 
 All curves are illustrative of qualitative behaviour. They are not empirical and not model output.
 
-## Repository structure
-
-*The layout below is a suggestion; replace the file names with the actual scripts once the repository is populated.*
-
-- **`figure1_three_layer_framework`** produces Figure 1.
-- **`figure2_commitment_threshold`** produces Figure 2.
-- **`figures/`** holds the output figures.
-
-Run the scripts to reproduce the figures.
-
-## Requirements
-
-*To complete: Python version and the key plotting packages (for example NumPy and Matplotlib), or a `requirements.txt` or `environment.yml` file that others can install from.*
-
 ## Citation
 
 If you find this work useful, please cite the paper. Please do so also if you use the code or a variation of it.
 
 > Al Khourdajie, A., Andrijevic, M., Byers, E., Pathak, M., Pirani, A., Schleussner, C.-F., & Stuart-Smith, R. (2026). Overshoot pathways of 1.5°C: reversible biophysical change, irreversible socioeconomic impacts. *Environmental Research Letters* (under review); preprint on EarthArXiv.
 
-BibTeX:
-
-```bibtex
-@unpublished{AlKhourdajie2026_overshoot,
-  author = {Al Khourdajie, Alaa and Andrijevic, Marina and Byers, Edward and Pathak, Minal and Pirani, Anna and Schleussner, Carl-Friedrich and Stuart-Smith, Rupert},
-  title  = {Overshoot pathways of 1.5$^\circ$C: reversible biophysical change, irreversible socioeconomic impacts},
-  year   = {2026},
-  note   = {Preprint on EarthArXiv; under review at Environmental Research Letters}
-}
-```
-
-## Acknowledgements
-
-A.A.K. was supported by the European Union's Horizon Europe research and innovation programme under Grant Agreement No. 101081179 (DIAMOND). E.B. was supported by the European Union's Horizon Europe research and innovation programme under Grant Agreement No. 101081369 (SPARCCLE). R.F.S.-S. acknowledges funding from the Quadrature Climate Foundation and the Wellcome Trust Grant No. 309112/Z/24/Z (TACTIC).
-
 ## License
 
 *To complete: add a licence so others know how they may use the code (for example MIT, BSD-3-Clause, or Apache-2.0), and include the corresponding LICENSE file.*
 
-## Contact
-
-For any question or feedback on the scripts, please get in touch: a.alkhourdajie@imperial.ac.uk (corresponding author).
